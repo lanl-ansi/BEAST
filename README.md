@@ -8,4 +8,4 @@ L. S. Baker, A. L. P. de Lima, A. Zlotnik, and J.-S. Li, “Convergence of Itera
 
 # License
 
-This code is provided under a BSD license for Bilinear Ensemble Actuation Synthesis Toolkit (BEAST), which was developed at the Center for Nonlinear Studies at Los Alamos National Laboratory under U.S. Department of Energy Contract No. 89233218CNA000001.
+This code was developed at the Center for Nonlinear Studies at Los Alamos National Laboratory under U.S. Department of Energy Contract No. 89233218CNA000001, and is provided under a BSD license for Bilinear Ensemble Actuation Synthesis Toolkit (BEAST) with OSTI Site Accession Number O4881.   
